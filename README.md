@@ -2,7 +2,7 @@
 
 I'm an engineer with a focus on Industry 4.0, leveraging a diverse skill set that includes Data Engineering, AI, DevOps, and Cybersecurity. I've had the opportunity to apply and hone these skills during my internships at Satec and SIA Group, where I worked on projects involving data flow design, system configuration, identity management, and cybersecurity compliance.
 
-My academic background is solid, with a Master's degree in Connected Industry 4.0 and a Bachelor's degree in Electronics and Automation Engineering from Universidad Carlos III de Madrid. I also had the privilege to study Applied Industrial Electronics at Aalborg University during my Erasmus program.
+I have a solid academic background, with a Master's degree in Connected Industry 4.0 and a Bachelor's degree in Electronics and Automation Engineering from Universidad Carlos III de Madrid. I also had the privilege to study Applied Industrial Electronics at Aalborg University during my Erasmus program.
 
 In terms of technical skills, I'm proficient in a variety of areas:
 
