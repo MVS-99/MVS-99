@@ -12,6 +12,7 @@ In terms of technical skills, I'm proficient in a variety of areas:
 - **Web Development**: Proficient in creating dynamic and responsive web applications, with a focus on both front-end and back-end development.
 - **IoT and Big Data Analytics**: Experienced in handling and analyzing large datasets, and integrating IoT devices for data collection and automation.
 - **AR/VR and Robotics**: Interest in exploring the potential of AR/VR technologies and collaborative robotics in Industry 4.0.
+- **Embedded Systems**: Expertise in microprocessors and embedded systems, with the ability to apply knowledge and understanding to identify, formulate and solve engineering problems, develop and realise designs, program microcontroller peripherals, and combine theory and practice to solve problems of microprocessor-based digital systems.
 
 I've also completed a Bachelor's thesis titled 'Desarrollo y Evaluación de una Aplicación Web para Fotogrametría en Smartphones: un Enfoque Integral para la Creación de Modelos 3D', which received a score of 9.4/10. Currently, I'm working on my Master's thesis, 'Analysis and synthesis of data related to Industry 4.0'.
 
