@@ -4,6 +4,8 @@ I'm an engineer with a focus on Industry 4.0, leveraging a diverse skill set tha
 
 I have a solid academic background, with a Master's degree in Connected Industry 4.0 and a Bachelor's degree in Electronics and Automation Engineering from Universidad Carlos III de Madrid. I also had the privilege to study Applied Industrial Electronics at Aalborg University during my Erasmus program.
 
+Currently, I'm harnessing my expertise as a Cybersecurity Project Engineer at Jember GmbH, focusing on embedded systems development in the automotive sector. While my role often involves technical management, my approach remains deeply intertwined with hands-on development, as I also need to develop, review and integrate code on my own.
+
 In terms of technical skills, I'm proficient in a variety of areas:
 
 - **Data Management**: Experience with various databases and data flow design, understanding the importance of data integrity and availability.
@@ -14,7 +16,7 @@ In terms of technical skills, I'm proficient in a variety of areas:
 - **AR/VR and Robotics**: Interest in exploring the potential of AR/VR technologies and collaborative robotics in Industry 4.0.
 - **Embedded Systems**: Expertise in microprocessors and embedded systems, with the ability to apply knowledge and understanding to identify, formulate and solve engineering problems, develop and realise designs, program microcontroller peripherals, and combine theory and practice to solve problems of microprocessor-based digital systems.
 
-I've also completed a Bachelor's thesis titled 'Desarrollo y Evaluación de una Aplicación Web para Fotogrametría en Smartphones: un Enfoque Integral para la Creación de Modelos 3D', which received a score of 9.4/10. Currently, I'm working on my Master's thesis, 'Analysis and synthesis of data related to Industry 4.0'.
+I've also completed a Bachelor's thesis titled 'Desarrollo y Evaluación de una Aplicación Web para Fotogrametría en Smartphones: un Enfoque Integral para la Creación de Modelos 3D', which received a score of 9.4/10. Also, my master's thesis about the analysis of data to prevent cyberattacks 'A Machine Learning Approach to Cyber Attack Detection and Classification in IIoT devices' was awarded with a 10/10.
 
 Feel free to explore my repositories to see the projects I've worked on, and don't hesitate to reach out if you have any questions or collaboration ideas!
 <!---
